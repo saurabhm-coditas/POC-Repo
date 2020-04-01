@@ -1,0 +1,44 @@
+{
+    "sessionId": "0f8fad5b-d9cb-461f-a165-70867728951z",
+    "paging": {
+        "pageNo": 1,
+        "pageSize": 10,
+        "orderBy": "price asc, rating desc"
+    },
+    "currency": "USD",
+    "contentPrefs": [
+        "Basic"
+    ],
+    "filters": {
+        "hotelChains": [
+            "Mercure"
+        ],
+        "allowedCountry": "FR",
+        "hotelNames": [
+            "Mercure"
+        ],
+        "hotelIds": [
+            "85792"
+        ],
+        "price": {
+            "minPrice": 224.31,
+            "maxPrice": 1797.02
+        },
+        "rating": [
+            "4"
+        ],
+        "amenities": [
+            "7"
+        ],
+        "tripAdvisorRating": [
+            "3"
+        ],
+        "offers": {
+            "includeHotels": "All"
+        }
+    },
+    "customerInfo": {
+        "id": "103_3067683670",
+        "availablePointBalance": 70000
+    }
+}
